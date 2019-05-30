@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6157e804394eabe3db23f325c251e7d2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\0a845b207b9fb023f04e441f0f2a9053\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8bf336db69f993410bb0f55d72382566\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d90cb4a7d9506924a99b3a428f5ec52c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\38035fa765193d01f49fe62ca28fbcd1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c8d2dcc076ce73e0cacdbd8b745086e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\7ed1460b5b4fa498fa1d4257b8ed8ac4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4f35984e71c1baeaef783887862bef23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\46f747d5fee79e754ff58f756fcd76a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d5321adfad235a5ffdc13499024bfc6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\689bd68d29c0fbc7e5ccf1a0bc35f3e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8cc6c456e221aab4587ea4c67bea7b79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c7e0ed60f6f0d646192e478c750a9855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\e3135fb26908979d3ef628acc55e550d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\df394b0df32b7ce671d3a7220ed5aee4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4038d389e429ad8d017b386a3cf6ebb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d7bb87164dd7e11ca5f9e841cff5c29d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\e7c339cb715a8c9de66207ae1d5f5c2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\fb73c172b6f63fddd2251ce1d70129b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8f85acbcdb4009806f02a0b7163c00fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\057b5489ebaff53f7b51a129af79f1d4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\435bdc09383d14291866c1a745b51718\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\be86db623cd2abbbcc7a9d566a88a0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\769dfb11d388af942aff8a70c11025f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ca895dba104569a844c5342e0ae6367a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\14bb2c63dc1f3d3790df56d7c04065e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\a71f3c959eaf77a636d9cb7969f4d807\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b427f1d28cbf7193cc0605892ac650e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c52811960c2555475854d30d5684f09d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3bc9c57fcbd0b3fa0d2c926d2fae1e59\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\0e12ea01ccf2a30a1c24df42265a2238\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\43ca4a17fa154bb12cbda12143aa34c1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6157e804394eabe3db23f325c251e7d2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6157e804394eabe3db23f325c251e7d2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d90cb4a7d9506924a99b3a428f5ec52c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d90cb4a7d9506924a99b3a428f5ec52c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\38035fa765193d01f49fe62ca28fbcd1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\38035fa765193d01f49fe62ca28fbcd1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\057b5489ebaff53f7b51a129af79f1d4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\057b5489ebaff53f7b51a129af79f1d4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\435bdc09383d14291866c1a745b51718\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\435bdc09383d14291866c1a745b51718\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\057b5489ebaff53f7b51a129af79f1d4\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:10:9-65
+activity#com.azarianalip.wiridan.Login
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:17:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.azarianalip.wiridan.MainActivity
+ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml:24:19-47
+uses-sdk
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6157e804394eabe3db23f325c251e7d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\6157e804394eabe3db23f325c251e7d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\0a845b207b9fb023f04e441f0f2a9053\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\0a845b207b9fb023f04e441f0f2a9053\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8bf336db69f993410bb0f55d72382566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8bf336db69f993410bb0f55d72382566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d90cb4a7d9506924a99b3a428f5ec52c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d90cb4a7d9506924a99b3a428f5ec52c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\38035fa765193d01f49fe62ca28fbcd1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\38035fa765193d01f49fe62ca28fbcd1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c8d2dcc076ce73e0cacdbd8b745086e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c8d2dcc076ce73e0cacdbd8b745086e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\7ed1460b5b4fa498fa1d4257b8ed8ac4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\7ed1460b5b4fa498fa1d4257b8ed8ac4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4f35984e71c1baeaef783887862bef23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4f35984e71c1baeaef783887862bef23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\46f747d5fee79e754ff58f756fcd76a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\46f747d5fee79e754ff58f756fcd76a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d5321adfad235a5ffdc13499024bfc6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d5321adfad235a5ffdc13499024bfc6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\689bd68d29c0fbc7e5ccf1a0bc35f3e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\689bd68d29c0fbc7e5ccf1a0bc35f3e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8cc6c456e221aab4587ea4c67bea7b79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8cc6c456e221aab4587ea4c67bea7b79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c7e0ed60f6f0d646192e478c750a9855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c7e0ed60f6f0d646192e478c750a9855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\e3135fb26908979d3ef628acc55e550d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\e3135fb26908979d3ef628acc55e550d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\df394b0df32b7ce671d3a7220ed5aee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\df394b0df32b7ce671d3a7220ed5aee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4038d389e429ad8d017b386a3cf6ebb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\4038d389e429ad8d017b386a3cf6ebb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d7bb87164dd7e11ca5f9e841cff5c29d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\d7bb87164dd7e11ca5f9e841cff5c29d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\e7c339cb715a8c9de66207ae1d5f5c2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\e7c339cb715a8c9de66207ae1d5f5c2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\fb73c172b6f63fddd2251ce1d70129b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\fb73c172b6f63fddd2251ce1d70129b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8f85acbcdb4009806f02a0b7163c00fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\8f85acbcdb4009806f02a0b7163c00fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\057b5489ebaff53f7b51a129af79f1d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\057b5489ebaff53f7b51a129af79f1d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\435bdc09383d14291866c1a745b51718\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\435bdc09383d14291866c1a745b51718\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\be86db623cd2abbbcc7a9d566a88a0bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\be86db623cd2abbbcc7a9d566a88a0bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\769dfb11d388af942aff8a70c11025f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\769dfb11d388af942aff8a70c11025f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ca895dba104569a844c5342e0ae6367a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\ca895dba104569a844c5342e0ae6367a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\14bb2c63dc1f3d3790df56d7c04065e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\14bb2c63dc1f3d3790df56d7c04065e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\a71f3c959eaf77a636d9cb7969f4d807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\a71f3c959eaf77a636d9cb7969f4d807\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b427f1d28cbf7193cc0605892ac650e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\b427f1d28cbf7193cc0605892ac650e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c52811960c2555475854d30d5684f09d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\c52811960c2555475854d30d5684f09d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3bc9c57fcbd0b3fa0d2c926d2fae1e59\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\3bc9c57fcbd0b3fa0d2c926d2fae1e59\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\0e12ea01ccf2a30a1c24df42265a2238\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\0e12ea01ccf2a30a1c24df42265a2238\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\43ca4a17fa154bb12cbda12143aa34c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\joker\.gradle\caches\transforms-2\files-2.1\43ca4a17fa154bb12cbda12143aa34c1\AndroidManifest.xml:20:5-44
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\alip\DzikirApp\app\src\main\AndroidManifest.xml
